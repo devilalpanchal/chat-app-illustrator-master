@@ -10,9 +10,9 @@ body {
 }
 
 .section-1 {
-    background-color: hsl(283, 94%, 51%);
+    background-color: hsl(278, 80%, 42%);
     width: 450px;
-    height: 700px;
+    height: 720px;
     border-radius: 0px 0px 400px 230px;
     position: absolute;
     top: 0;
@@ -23,7 +23,7 @@ body {
 
 .section-2 {
     width: 300px;
-    height: 570px;
+    height: 564px;
     padding: 15px;
     box-shadow: 10px 10px 20px 0px rgb(245, 212, 212);
     font-size: 10px;
@@ -98,7 +98,7 @@ body {
 
 .sec2 {
     z-index: 9;
-    margin-top: 30px;
+    margin-top: 80px;
     margin-left: 370px;
     background: white;
 }
@@ -250,25 +250,28 @@ body {
     font: bold;
     border: 1px rgb(236, 151, 151) solid;
     border-radius: 25px;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     text-align: center;
     color: white;
     background-color: rgb(3, 0, 34);
 }
-
+.grater-than:hover{
+color: blue;
+background-color:rgb(121, 168, 190);
+}
 .section-3 {
-    margin-top: 200px;
+    margin-top: 300px;
     margin-right: 100px;
 }
 
 .text01 {
     color: rgb(161, 161, 155);
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .sec3-header {
-    font-size: 25px;
+    font-size: 35px;
     color: black;
 }
 
